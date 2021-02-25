@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi, I'm Warren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/developer-blogs-green?style=flat-square)](https://warrenniu.medium.com/)
