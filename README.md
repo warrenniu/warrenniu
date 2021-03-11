@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/developer-blogs-green?style=flat-square)](https://warrenniu.medium.com/)
 
 ## About me
-- 🔭 I’m currently working on - Never ending pursuit of learning! Developing my JavaScript skills
+- 🔭 I’m currently working on - A workout accountability app called Gympact - built with ReactJS frontend and Rails API backend
 - 🌱 I’m currently learning - data structures & algorithms
 - 👯 I’m looking to collaborate with - Anyone & Anything! 
 - 💬 Ask me about - Sports & Anime. I won't shut up.
