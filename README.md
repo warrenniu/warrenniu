@@ -3,8 +3,8 @@
 [![Website](https://img.shields.io/badge/developer-blogs-green?style=flat-square)](https://warrenniu.medium.com/)
 
 ## About me
-- 🔭 I’m currently working on - A workout accountability app called Gympact - built with ReactJS frontend and Rails API backend
-- 🌱 I’m currently learning - data structures & algorithms
+- 🔭 I’m currently working on - A workout accountability app called Gympact - built with React Native frontend and Firebase backend
+- 🌱 I’m currently learning - React Native, Firebase, Data structures & algorithms
 - 👯 I’m looking to collaborate with - Anyone & Anything! 
 - 💬 Ask me about - Sports & Anime. I won't shut up.
 - 🥅 2021 Goal - Finding that breakthrough - landing my first developer role!
